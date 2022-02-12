@@ -1,0 +1,21 @@
+{
+  "name": "domesy-cli",
+  "version": "0.7.2",
+  "description": "domesy命令",
+  "main": "index.js",
+  "bin": {
+    "domesy": "bin/domesy.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "domesy",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "figlet": "^1.5.2",
+    "git-pull-or-clone": "^2.0.1",
+    "inquirer": "^8.2.0"
+  }
+}
