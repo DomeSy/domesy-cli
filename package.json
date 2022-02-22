@@ -1,6 +1,6 @@
 {
   "name": "domesy-cli",
-  "version": "0.7.3",
+  "version": "0.7.5",
   "description": "domesy命令",
   "main": "index.js",
   "bin": {

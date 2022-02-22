@@ -28,7 +28,7 @@ const question = [
 clear();
 
 log(
-  figlet.textSync("DOMESY !", {
+  figlet.textSync("DOMESY!", {
     horizontalLayout: "Isometric1",
     verticalLayout: "default",
     width: 80,
